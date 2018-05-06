@@ -9,3 +9,5 @@
 4. [中国科技资源网](http://www.escience.net.cn/escience/index.action)
 <br>
 5. [中科院数据云](http://www.csdb.cn/)
+<br>
+6. [中国土壤数据库](http://vdb3.soil.csdb.cn/)
